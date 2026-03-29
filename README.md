@@ -65,6 +65,19 @@ This tool removes that friction and helps you respond faster with clarity.
 
 ---
 
+## 🛠️ Support
+
+Contact:autoforge.atd@gmail.com
+Response:24-48 hours
+
+---
+
+## 📄 License
+
+Personal Use Licennse- This product may not be resold,redistibuted or used for commercial resale.
+
+---
+
 ## 📬 Feedback
 
 Open to suggestions and improvements — feel free to reach out or create an issue.
