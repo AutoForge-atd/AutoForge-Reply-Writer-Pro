@@ -7,4 +7,4 @@
 ![Generate](assets/generate.png)
 
 ### Output Result
-![Result](assets/result.png)
+![Result](assets/results.png)
