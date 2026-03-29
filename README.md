@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # AutoForge Reply Writer Pro
 
 AutoForge Reply Writer Pro is a lightweight Windows application that generates clean, professional replies for emails, messages, and client communication in seconds.
